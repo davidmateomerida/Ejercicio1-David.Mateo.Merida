@@ -30,10 +30,7 @@ Cómo funciona el juego paso a paso:
 Empieza la partida con una velocidad normal.
 Van apareciendo obstáculos que hay que esquivar moviéndose a los lados.
 Si el personaje choca con un obstáculo, la partida termina y se pierde.
-Si se sigue esquivando sin chocar, la partida continúa y va cada vez más rápido, sumando más metros de distancia.
-
-Este ciclo de "mover, comprobar, dibujar y repetir" se hace muchas veces por segundo (por ejemplo 60 veces por segundo) mientras dura la partida. A esto se le llama el bucle del juego, y es la base de prácticamente cualquier videojuego, por sencillo que sea.
-
+Si se sigue esquivando sin chocar, la partida continúa y va cada vez más rápido, sumando más metros de distancia
 
 Ejemplo sencillo: los controles
 
